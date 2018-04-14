@@ -1,6 +1,6 @@
 # vuedemo
 
-<img src="https://github.com/museseeu/accounting/blob/master/Screenshot.png" width="400">
+<img src="https://github.com/museseeu/accounting/blob/37509ea447c5f01302c6a08eeae69c45ae39e8cc/Screenshot.png" width="400">
 
 
 > A Vue.js with Vuex calculator
