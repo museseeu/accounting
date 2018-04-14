@@ -1,16 +1,16 @@
 <template>
   <div id="app">
-    <FamilyList/>
+    <calculator/>
   </div>
 </template>
 
 <script>
-import FamilyList from './components/FamilyList';
+import calculator from './components/Calculator';
 
 export default {
   name: 'App',
   components: {
-    FamilyList,
+    calculator,
   },
 };
 </script>
