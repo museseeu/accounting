@@ -1,5 +1,8 @@
 # vuedemo
 
+<img src="https://github.com/museseeu/accounting/blob/master/Screenshot.png" width="400">
+
+
 > A Vue.js with Vuex calculator
 
 ## Build Setup
