@@ -1,16 +1,19 @@
 <template>
   <div id="app">
+    <remoteData/>
     <calculator/>
   </div>
 </template>
 
 <script>
 import calculator from './components/Calculator';
+import remoteData from './components/RemoteData';
 
 export default {
   name: 'App',
   components: {
     calculator,
+    remoteData,
   },
 };
 </script>
