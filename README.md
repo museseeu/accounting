@@ -1,11 +1,11 @@
-# vuedemo
+# Vuedemo
 
 <img src="https://github.com/museseeu/accounting/blob/37509ea447c5f01302c6a08eeae69c45ae39e8cc/Screenshot.png" width="400">
 
 
 > Multiple solution calculator demo from Vue.js.
 
-## learn ?
+## Learn ?
 
 > Basic js operator
 
@@ -18,7 +18,7 @@
 - basic Vuex flow
 - firebase database CRUD API connect 
 
-## demo calculator vue component ##
+## Demo calculator vue component ##
 
 > Calculator
 
